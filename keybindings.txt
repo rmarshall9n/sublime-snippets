@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/comma-next.sublime-macro"} },
+    { "keys": ["ctrl+shift+0"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/close-parens.sublime-macro"} }
+]
